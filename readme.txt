@@ -1,0 +1,1 @@
+Git repozitáø pro tımové práce na téma internet vìcí.
